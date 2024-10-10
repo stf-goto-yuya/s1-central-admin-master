@@ -1,0 +1,46 @@
+{
+  "name": "s1-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 3001",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "deploy": "npm run build && npm run export"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/core": "^10.0.28",
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "next": "^9.3.2",
+    "postcss-preset-env": "^6.7.0",
+    "react": "^16.13.1",
+    "react-cookie": "^4.0.3",
+    "react-csv": "^2.0.3",
+    "react-dom": "^16.13.1",
+    "react-spinners": "^0.8.1",
+    "tailwindcss": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.9.8",
+    "@types/react": "^16.9.29",
+    "@types/react-csv": "^1.1.1",
+    "@types/react-dom": "^16.9.5",
+    "@typescript-eslint/eslint-plugin": "^2.26.0",
+    "@typescript-eslint/parser": "^2.26.0",
+    "babel-plugin-emotion": "^10.0.29",
+    "dotenv-webpack": "^1.7.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.19.0",
+    "prettier": "^2.0.2",
+    "typescript": "^3.8.3"
+  }
+}

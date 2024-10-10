@@ -1,0 +1,71 @@
+{
+  "folders": [
+    {
+      "name": "S1 Admin",
+      "path": "."
+    },
+    {
+      "name": "S1 SiteFormProd",
+      "path": "../s1-site-form-prod"
+    },
+    {
+      "name": "S1 SiteForm",
+      "path": "../s1-site-form"
+    },
+    {
+      "name": "S1 Consumer UI",
+      "path": "../s1-consumer-ui"
+    },
+    {
+      "name": "S1 API Server",
+      "path": "../s1-central-api"
+    },
+    {
+      "name": "S1 Site Generator",
+      "path": "../s1-site-generator"
+    },
+    {
+      "name": "S1 SlackWebApi",
+      "path": "../s1-slack-web-api"
+    },
+    {
+      "name": "S1 Slack Bolt",
+      "path": "../s1-slack-bolt"
+    },
+    {
+      "name": "S1 Docs",
+      "path": "../s1-docs"
+    },
+    {
+      "name": "S1 Win Intl Counter",
+      "path": "../s1-win-intl-counter"
+    },
+    {
+      "name": "S1 Vt Crawler",
+      "path": "../s1-vt-crawler"
+    },
+    {
+      "name": "S1 Email Notification",
+      "path": "../s1-email-notification"
+    },
+    {
+      "name": "S1 Notification Manager",
+      "path": "../s1-ntfc-manager"
+    },
+    {
+      "name": "S1 Tracker V2",
+      "path": "../s1-tracker-v2"
+    },
+    {
+      "name": "S1 Tracker V3",
+      "path": "../s1-tracker-v3"
+    },
+    {
+      "name": "S1 Sentry Hook",
+      "path": "../s1-sentry-hook"
+    }
+  ],
+  "extensions": {
+    "recommendations": ["formulahendry.auto-close-tag"]
+  }
+}
